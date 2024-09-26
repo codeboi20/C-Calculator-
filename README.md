@@ -1,1 +1,1 @@
-click on the pong game exe to play
+click on the pong game.exe file to play
